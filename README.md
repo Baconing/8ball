@@ -1,8 +1,8 @@
 # 8 Ball
 
 
-I was bored and didn't have anything to do, so I made this with like no Java knowledge.
-Only used JavaDocs and a little bit of stack overflow for things that just are weirdly complicated (like the amount of functions to repaint Components).
+Simple java program to randomly generate 8 ball response with cOlOR!!!!
+legit made this in like an hour while bored and needed something simple for my portfolio.
 
 ## Building
 
@@ -16,6 +16,3 @@ So yeah, prebuild binaries in releases.
 
 
 Jars in `app/build/libs`.
-
-
-# ok love you bye
